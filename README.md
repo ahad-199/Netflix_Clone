@@ -25,9 +25,5 @@ This is a **Netflix Clone** built using HTML, CSS, and JavaScript. The project r
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- [Optional] Any libraries or tools you used (e.g., Swiper.js, Font Awesome, etc.)
 
----
-
-## 📁 Folder Structure
 
