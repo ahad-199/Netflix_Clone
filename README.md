@@ -6,7 +6,7 @@ This is a **Netflix Clone** built using HTML, CSS, and JavaScript. The project r
 
 ## 📸 Preview
 
-![Netflix Clone Screenshot](img/Capture.JPG) <!-- Replace with a suitable screenshot path -->
+![Netflix Clone Screenshot](img/Capture.PNG) <!-- Replace with a suitable screenshot path -->
 
 ---
 
